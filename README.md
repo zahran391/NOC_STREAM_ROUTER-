@@ -11,3 +11,5 @@ Key Verification Highlights:
 
 Building scalable and modular digital designs continues to be a thrilling journey! Check out the successful waveform run below
 <img width="1600" height="1140" alt="image" src="https://github.com/user-attachments/assets/abb20dee-57e6-4492-8916-8171196f89f7" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c9cd28f0-0c59-48ce-8070-3ca9be01f912" />
+<img width="1600" height="1130" alt="image" src="https://github.com/user-attachments/assets/cbad2a44-f394-4acf-afcc-e6f41232766e" />
