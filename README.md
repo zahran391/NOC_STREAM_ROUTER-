@@ -2,6 +2,16 @@
  Excited to share my latest RTL verification milestone: AXI4-Stream Router Subsystem Verification!
 
 I designed and verified a parameterized AXI4-Stream Router using SystemVerilog and QuestaSim. The system routes stream packets dynamically based on tdest routing signals across multiple master interfaces while preserving full AXI-Stream interface compliance.
+*******************************
+Flow OF Module : 
+. Slave Module 
+. FIFO Module 
+. Master Module 
+. AIX_Stream_Module 
+. Top_level_Module 
+. Test Bench
+
+********************************
 
 Key Verification Highlights:
 🔹 Self-Checking Scoreboard: Developed an automated scoreboard to verify data integrity, timing, and packet ordering dynamically.
